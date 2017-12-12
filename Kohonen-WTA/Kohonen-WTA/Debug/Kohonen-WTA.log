@@ -1,0 +1,3 @@
+﻿  KohonenNetwork.cpp
+c:\users\madlenka\studia\informatyka\semestr 5\psi\psi-projekt5\kohonen-wta\kohonen-wta\kohonennetwork.cpp(187): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Kohonen-WTA.vcxproj -> C:\Users\Madlenka\Studia\Informatyka\Semestr 5\PSI\PSI-projekt5\Kohonen-WTA\Debug\Kohonen-WTA.exe
